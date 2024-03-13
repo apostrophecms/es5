@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/apostrophecms/apostrophe/main/logo.svg" alt="ApostropheCMS logo" width="80" height="80">
 
-  <h1>ES5 Support for ApostropheCMS 3.x</h1>
+  <h1>ES5 Support for ApostropheCMS</h1>
   <p>
     <a aria-label="Apostrophe logo" href="https://v3.docs.apostrophecms.org">
-      <img src="https://img.shields.io/badge/MADE%20FOR%20Apostrophe%203-000000.svg?style=for-the-badge&logo=Apostrophe&labelColor=6516dd">
+      <img src="https://img.shields.io/badge/MADE%20FOR%20ApostropheCMS-000000.svg?style=for-the-badge&logo=Apostrophe&labelColor=6516dd">
     </a>
     <a aria-label="Test status" href="https://github.com/apostrophecms/asset-es5/actions">
       <img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/apostrophecms/asset-es5/Tests/main?label=Tests&labelColor=000000&style=for-the-badge">
